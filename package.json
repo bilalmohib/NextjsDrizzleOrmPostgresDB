@@ -1,5 +1,5 @@
 {
-  "name": "nextjs_drizzleorm_postgres",
+  "name": "next-auth-drizzle-postgres",
   "version": "0.1.0",
   "private": true,
   "scripts": {
